@@ -24,5 +24,7 @@ Then:
 ### git commit -m "Added index.html" -m "Some description"
 Must have first message! 2nd is optional (like saving on github liddat)
 
-### git push
+### git push origin main
 Makes the changes live
+origin: location of our github repo
+main:
