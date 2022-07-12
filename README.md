@@ -1,6 +1,6 @@
 # Demo
+https://www.youtube.com/watch?v=RGOj5yH7evk 
 
-Some description!
 
 ## To clone from github to local:
 ### git clone git@github.com:bchoongwj/demo-repo.git
