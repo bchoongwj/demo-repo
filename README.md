@@ -2,6 +2,10 @@
 
 Some description!
 
+## To clone from github to local:
+### git clone git@github.com:bchoongwj/demo-repo.git
+SSH link!!!
+
 ## To change directory:
 Use gitbash:
 ### cd demo-repo
